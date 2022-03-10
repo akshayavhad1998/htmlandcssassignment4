@@ -1,0 +1,61 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:white;
+}
+.container{
+    width: 2000px;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    padding: 20px 0px;
+    margin: auto ;
+    background-color: rgb(7 94 84);
+}
+.header_logo {
+    width: 150px;
+    height: auto;
+}
+.logo_support{
+    margin-left: 5px;
+    font-size: 25px;
+    color: white;
+}
+.header_nav{
+     width: 550px;
+     font-size: 20px;
+     margin-left: 100px;
+     margin-top: 10px;
+}
+.header_nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 500px;
+  margin: 10px;
+  li
+}
+.title{
+    width: 40%;
+    margin-top: 50px;
+    
+}
+.title_one{
+    width: 25%;
+    padding: 25px;
+}
+.title_one h1{
+    font-size: 40px;
+}
+.title_two{
+    width: 50%;
+ margin: auto;
+}
+.title_two img{
+    width: 100%;
+    margin: 10%;
+}
